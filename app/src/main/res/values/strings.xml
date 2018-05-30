@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BBI</string>
+    <!--data menu aplikasi bbi -->
+    <string-array name="bbi_menu">
+        <item>Hitung BBI</item>
+        <item>Panduan Kesehatan</item>
+        <item>Quiz</item>
+    </string-array>
+</resources>
